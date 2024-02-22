@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+chmod 755 /opt/denemo/embedded/resources/Denemo.app
+mv /opt/denemo/embedded/resources/Denemo.app ~/Desktop/.
+touch ~/Desktop/Denemo.app
